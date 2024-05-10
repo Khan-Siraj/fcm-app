@@ -1,11 +1,12 @@
 export const environment = {
     firebase: {
-        apiKey: "AIzaSyDhD0zzqfIDPRVreBSAu-HzrnAqHxpj6qA",
-        authDomain: "otp-test-8f2c5.firebaseapp.com",
-        projectId: "otp-test-8f2c5",
-        storageBucket: "otp-test-8f2c5.appspot.com",
-        messagingSenderId: "225953437106",
-        appId: "1:225953437106:web:af823da241cb72c51e00ab",
-        vapidKey: "BBIozZN6WDnKH8iKMCgo3BQN8zDysgEx9vfJn1gDEDsZyuXYfjAM824_QQwF92W2KlmKxwQpw1IHdCIrvxy7Ezo"
+        apiKey: "AIzaSyA7ACh3A-0GJgO_1uXH0NzNSGzJp2kBga4",
+        authDomain: "healthmagus-48e76.firebaseapp.com",
+        projectId: "healthmagus-48e76",
+        storageBucket: "healthmagus-48e76.appspot.com",
+        messagingSenderId: "894456759016",
+        appId: "1:894456759016:web:a39c1ae33587bbe065ff5d",
+        measurementId: "G-N6QMGZQ701",
+        vapidKey: "BBf7HbUBEdUHVqDOx7zBjU53nFDANDVEwArWBmr-DveLlq0QL35jqjaB2b3i1ZJFeCzm3pPBKBHFJORctCbX9Lg"
       }
 };
